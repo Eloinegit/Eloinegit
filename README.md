@@ -3,7 +3,7 @@
 
 ### 🎓 Étudiante en Licence 3 Informatique | [ENEAM]
 
-Passionnée par le développement logiciel et l'analyse de systèmes, je me spécialise actuellement en [VOTRE SPÉCIALISATION : ex: développement web / data science / ].
+Passionnée par le développement logiciel et l'analyse de systèmes, je me spécialise actuellement en développement web ,data science.
 
 ---
 
