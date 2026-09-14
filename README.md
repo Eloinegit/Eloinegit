@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Bonjour, je suis Eloine [VOTRE NOM]
+# 👋 Bonjour, je suis Eloine ADJE
 
 ### 🎓 Étudiante en Licence 3 Informatique | [ENEAM]
 
